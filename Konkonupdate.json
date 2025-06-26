@@ -1,11 +1,11 @@
 {
   "versionCode": "1",
-  "versionName": "1.2",
+  "versionName": "1.0.1",
   "downloadLink": "https://example.com/downloads/my_app_v1.0.1.apk",
   "forceUpdate": false,
-  "Title": "Konkon App đã cập nhật",
-  "Msg": "Chúng tôi đã lắng nghe phản hồi của bạn và thực hiện một số cải tiến đáng kể:\n\n- Sửa lỗi quảng cáo bỏ qua fixz.\n- Sửa lỗi tải qua Terabox.\n- Được hỗ trợ bởi Kaizen Bug Fix.",
-  "updateSize": "9.5 MB",
-  "releaseDate": "Ngày 26 tháng 6 năm 2025",
+  "Title": "Awesome New Features!",
+  "Msg": "We've listened to your feedback and made some significant improvements:\n\n- Dark Mode support added.\n- Faster loading times.\n- Improved stability and bug fixes.",
+  "updateSize": "30.5 MB",
+  "releaseDate": "2023-10-27",
   "priority": "high"
 }
