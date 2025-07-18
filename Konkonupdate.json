@@ -25,7 +25,7 @@
     "forceUpdate": true,
     "style": 3,
     "dateSystem": true,
-    "expiryDate": "July-11-2025",
+    "expiryDate": "August-11-2025",
     "dialogTexts": {
       "title": "NEW UPDATE AVAILABLE",
       "message": "To continue using the app, you must update to the latest version.",
