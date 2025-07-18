@@ -1,20 +1,40 @@
 {
-  "version_code": 1,
-  "title_update": "Update Available",
-  "title_made_by": "DPMods",
-  "title_color": "#FF0000",
-  "description": [
-    "Improved performance and speed",
-    "Enhanced security features",
-    "New user interface design"
-  ],
-  "notes": [
-    "Latest performance improvements",
-    "Security enhancements overview",
-    "New UI design guide",
-    "Update FAQs and support"
-  ],
-  "telegram_link": "https://t.me/your_channel",
-  "update_link": "https://example.com/update",
-  "dialog_exit_on_false": true
+  "com.update": {
+    "latestVersionCode": 14701731,
+    "latestVersion": "14.7.0",
+    "url": "https://play.google.com/store/apps/details?id=com.example.app1",
+    "forceUpdate": true,
+    "style": 3,
+    "dateSystem": true,
+    "expiryDate": "July-11-2025",
+    "dialogTexts": {
+      "title": "NEW UPDATE AVAILABLE",
+      "message": "To continue using the app, you must update to the latest version.",
+      "updateButton": "UPDATE NOW",
+      "laterButton": "LATER"
+    },
+    "dialogStyle3": {
+      "imageWidth": 160,
+      "imageHeight": 160
+    }
+  },
+  "com.imaginstudio.imagetools.pixellab": {
+    "latestVersionCode": 10,
+    "latestVersion": "1.2.0",
+    "url": "https://play.google.com/store/apps/details?id=com.example.app2",
+    "forceUpdate": true,
+    "style": 3,
+    "dateSystem": true,
+    "expiryDate": "July-11-2025",
+    "dialogTexts": {
+      "title": "NEW UPDATE AVAILABLE",
+      "message": "To continue using the app, you must update to the latest version.",
+      "updateButton": "UPDATE NOW",
+      "laterButton": "LATER"
+    },
+    "dialogStyle3": {
+      "imageWidth": 160,
+      "imageHeight": 160
+    }
+  }
 }
