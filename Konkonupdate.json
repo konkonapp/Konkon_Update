@@ -22,9 +22,9 @@
     "latestVersionCode": 1,
     "latestVersion": "1.4.2",
     "url": "https://github.com/konkonapp/Konkonupdate/releases/download/KonkonApp/Konkon_v1.4.2.apk",
-    "forceUpdate": true,
+    "forceUpdate": false,
     "style": 3,
-    "dateSystem": true,
+    "dateSystem": false,
     "expiryDate": "July-11-2025",
     "dialogTexts": {
       "title": "NEW UPDATE AVAILABLE",
