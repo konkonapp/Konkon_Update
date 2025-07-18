@@ -1,7 +1,7 @@
 {
   "com.update": {
-    "latestVersionCode": 1,
-    "latestVersion": "1.4.3",
+    "latestVersionCode": 14701731,
+    "latestVersion": "14.7.0",
     "url": "https://play.google.com/store/apps/details?id=com.example.app1",
     "forceUpdate": true,
     "style": 3,
@@ -20,12 +20,12 @@
   },
   "konkon.my.app": {
     "latestVersionCode": 1,
-    "latestVersion": "1.4.5",
+    "latestVersion": "1.4.3",
     "url": "https://play.google.com/store/apps/details?id=com.example.app2",
     "forceUpdate": true,
     "style": 3,
     "dateSystem": true,
-    "expiryDate": "August-11-2025",
+    "expiryDate": "July-11-2025",
     "dialogTexts": {
       "title": "NEW UPDATE AVAILABLE",
       "message": "To continue using the app, you must update to the latest version.",
