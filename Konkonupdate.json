@@ -2,7 +2,7 @@
   "konkon.my.app": {
     "latestVersionCode": 1,
     "latestVersion": "1.4.2",
-    "url": "https://play.google.com/store/apps/details?id=com.example.app1",
+    "url": "https://github.com/konkonapp/Konkonupdate/releases/download/KonkonApp/Konkon_v1.4.2.apk",
     "forceUpdate": true,
     "style": 3,
     "dateSystem": true,
