@@ -18,9 +18,9 @@
       "imageHeight": 160
     }
   },
-  "com.imaginstudio.imagetools.pixellab": {
-    "latestVersionCode": 10,
-    "latestVersion": "1.2.0",
+  "konkon.my.app": {
+    "latestVersionCode": 1,
+    "latestVersion": "1.4.3",
     "url": "https://play.google.com/store/apps/details?id=com.example.app2",
     "forceUpdate": true,
     "style": 3,
