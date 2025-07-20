@@ -21,20 +21,16 @@
   "konkon.my.app": {
     "latestVersionCode": 1,
     "latestVersion": "1.4.3",
-    "url": "https://github.com/konkonapp/Konkonupdate/releases/download/KonkonApp/Konkon_v1.4.3.apk",
-    "forceUpdate": false,
+    "url": "https://github.com/konkonapp/Konkonupdate/releases/download/KonkonApp/Konkon_v1.4.3.Fix.2.apk",
+    "forceUpdate": true,
     "style": 3,
-    "dateSystem": false,
+    "dateSystem": true,
     "expiryDate": "July-11-2025",
     "dialogTexts": {
       "title": "Đã có phiên bản mới",
       "message": "Ngày 19 tháng 7 năm 2025 18h50
-v1.4.3
-Thêm chặn quảng cáo.
-Sửa lỗi Bug Terabox hỗ trợ tải xuống liên kết phiên bản cũ.
-Thêm tính năng mã hóa config
-Cảm ơn Kaizen.
-Sau 20 giờ sẽ tắt tính năng cập nhập vui lòng chờ",
+v1.4.3 Fix 2
+Sau 6 giờ sẽ tắt tính năng cập nhập vui lòng chờ",
       "updateButton": "Cập nhập",
       "laterButton": "LATER"
     },
