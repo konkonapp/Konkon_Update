@@ -20,16 +20,16 @@
   },
   "konkon.my.app": {
     "latestVersionCode": 1,
-    "latestVersion": "1.4.3",
+    "latestVersion": "1.5",
     "url": "https://github.com/konkonapp/Konkonupdate/releases/download/KonkonApp/Konkon_v1.5.apk",
-    "forceUpdate": false,
+    "forceUpdate": true,
     "style": 3,
-    "dateSystem": false,
+    "dateSystem": true,
     "expiryDate": "July-11-2025",
     "dialogTexts": {
       "title": "Đã có phiên bản mới",
       "message": "Ngày 26 tháng 7 năm 2025 21h58
-v1.4.5
+v1.5
 Sửa lỗi cho tất cả.
 Sau 6 giờ sẽ tắt tính năng cập nhập vui lòng chờ",
       "updateButton": "Cập nhập",
